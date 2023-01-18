@@ -8,3 +8,13 @@
 ```
 git commit -m "<commit message>"
 ```
+
+## Push
+```
+git push
+```
+
+## Pull
+```
+git pull
+```
